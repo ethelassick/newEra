@@ -26,3 +26,6 @@ echo -e "${NC}"
 
 # Calculation function
 calculate() {
+
+#calculator ready to be push.
+
